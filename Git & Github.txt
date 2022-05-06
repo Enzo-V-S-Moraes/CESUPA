@@ -1,0 +1,64 @@
+// Iniciar repositório.
+Git init 
+
+
+// Relatório de arquivos.
+Git status
+
+
+// Fazer controle do arquivo.
+git add "nome_do_arquivo"
+
+
+// Fazer controle de todos os arquivos.
+git add .
+
+
+// Fazer login no seu github
+git config --global user.email "seu@email.com"
+git config --global user.name "Seu nome"
+
+
+// Fazer salvamento da versão e dar nome a ela (Recomendado: "commit inicial").
+git commit -m "nome_de_controle"
+
+
+// Mostrar ao git para onde mandar os arquivos
+git remote add origin <link do repositório>
+
+
+// Decidir pra qual branch vai ser enviado os arquivos.
+git push --set-upstream origin master
+
+
+// Enviar a versão de controle para o github.
+git push
+
+
+
+ // Comandos Avançados a seguir.
+
+
+//  Mostrar as versões do commit.
+git reflog
+
+
+// Navegar entre versões do commit.
+git reset --hard <id da versão>
+
+
+
+// Visualizar branchs
+git branch
+
+
+// Criar branch
+git branch <nome_da_branch>
+
+
+// União de branch
+git merge <branch emissor>
+
+
+// Trocar de branch
+git checkout <nome_da_branch>
