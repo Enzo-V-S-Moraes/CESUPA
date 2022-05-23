@@ -1,0 +1,127 @@
+<div class="oval">
+    <div class="logo">
+        <div class="oval1"></div>
+        <div class="oval2"></div>
+        <div class="oval3"></div>
+        <div class="oval4"></div>
+        <div class="oval5"></div>
+        <div class="oval6"></div>
+        <div class="square1"></div>
+        <div class="square2"></div>
+        <div class="ears"></div>
+    </div>
+</div>
+
+.oval{
+    width: 230px;
+    height: 130px;
+    background-color: #fdff00;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.logo{
+    position: absolute;
+    width: 212px;
+    height: 112px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.oval1{
+    position: absolute;
+    background-color: #fdff00;
+    width: 33px;
+    height: 70px;
+    border-radius: 50%;
+    top: 67px;
+    left: 44px;
+    transform: rotate(-41deg);
+}
+
+.oval2{
+    position: absolute;
+    background-color: #fdff00;
+    width: 33px;
+    height: 70px;
+    border-radius: 50%;
+    top: 67px;
+    left: 44px;
+    transform: rotate(41deg);
+}
+
+.oval3{
+    position: absolute;
+    background-color: #fdff00;
+    width: 38px;
+    height: 70px;
+    border-radius: 50%;
+    top: 73px;
+    left: 68px;
+    transform: rotate(-15deg);
+}
+
+.oval4{
+    position: absolute;
+    background-color: #fdff00;
+    width: 38px;
+    height: 70px;
+    border-radius: 50%;
+    top: 73px;
+    left: 68px;
+    transform: rotate(15deg);
+}
+
+.oval5{
+    position: absolute;
+    background-color: #fdff00;
+    width: 37px;
+    height: 40px;
+    border-radius: 50%;
+    top: 0;
+    left: 57px;
+}
+
+.square1{
+    position: absolute;
+    background-color: #fdff00;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 74px;
+}
+
+.oval6{
+    position: absolute;
+    background-color: #fdff00;
+    width: 37px;
+    height: 40px;
+    border-radius: 50%;
+    top: 0;
+    right: 57px;
+}
+
+square2{
+    position: absolute;
+    background-color: #fdff00;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    right: 74px;
+}
+
+.ears{
+    position: absolute;
+    top: 0;
+    left: 95px;
+    border-bottom: 12px solid #fdff00;
+    border-left: 6px solid black;
+    border-right: 6px solid black;
+    width: 11px;
+    transform: rotate(180deg);
+}
+
