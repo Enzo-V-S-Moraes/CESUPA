@@ -1,0 +1,29 @@
+﻿syntax "proto3";
+
+option csharp_namespace = "LibraryClient";
+
+package library;
+
+service LibraryServiceGrpc{
+	rpc SellectAll (Empty) returns (Books);
+	rpc SelectByID (BookFilter) returns (Book);
+	rpc Insert (Book) returns (Empty);
+	rpc Update (Book) returns (Empty);
+	rpc Delete (BookFilter) returns (Empty);
+}
+
+message empty{}
+
+message Book{
+	int32 BookID = 1;
+	string Name = 2;
+	string Type = 3;
+}
+
+message Books{
+	repeated Book items = 1;
+}
+
+message BookFilter{
+	in32 BookID = 1;
+}
