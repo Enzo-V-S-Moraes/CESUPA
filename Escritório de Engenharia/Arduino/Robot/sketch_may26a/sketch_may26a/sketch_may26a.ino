@@ -10,7 +10,7 @@
 Ultrasonic ultrasonic(pino_trigger, pino_echo);
 
 // TCRT5000
-int pinoSensor;
+int a, b, c;
 
 // PONTE H
 // Definindo pinos
@@ -26,7 +26,10 @@ void setup() {
   Serial.println("Lendo dados do sensor...");
 
   // TCRT5000
-  pinMode(A0, INPUT);
+  pinMode(1, OUTPUT);
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
   Serial.begin(9600);
 
   // PONTE H
@@ -35,7 +38,6 @@ void setup() {
   pinMode(IN2, OUTPUT);
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
-  
 }
 
 void loop() {
@@ -52,15 +54,20 @@ void loop() {
   Serial.println(inMsec);
   delay(200);
 
-  // TCRT5000
-  pinoSensor = analogRead(A0);
-  
+  /*// TCRT5000
+  digitalWrite(6, HIGH);
+  delay(1);
+  a = analogRead(A3);
+  digitalWrite(6, LOW);
+  delay(1);
+  b = analogRead(A3);
+  c = a - b;
 
   Serial.print(a);
   Serial.print("\t");
   Serial.print(b);
   Serial.print("\t");
-  Serial.print(c);
+  Serial.print(c);*/
   
   // PONTE H
   // Gira o Motor A e B no sentido horário
