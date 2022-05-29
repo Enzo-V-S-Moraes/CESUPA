@@ -93,6 +93,7 @@ void main()
 			break;
 	}
 }
+
 void jogo()
 {
 	PERSONAGEM personagem;
@@ -101,6 +102,7 @@ void jogo()
 	criacao(&personagem, &armas, &armaduras);
 	combate1(personagem);
 }
+
 void combate1(PERSONAGEM personagem)
 {
 	//Definindo os stats dos possiveis monstros do primeiro encontro
@@ -737,6 +739,7 @@ void combate1(PERSONAGEM personagem)
 		break;
 	}
 }
+
 void criacao(PERSONAGEM *personagem, ARMAS *armas, ARMADURAS *armaduras)
 {
     int att;
