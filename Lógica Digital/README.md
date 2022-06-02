@@ -131,10 +131,10 @@
 
 - [Exercício - Regras de Inferência](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2004/Exerc%C3%ADcio%20-%20Regras%20de%20Infer%C3%AAncia.pdf)
 
+- [Exercício - Justificar as demonstrações]()
+
 ## Gabarito - Lista de Exercícios 04
 
-- []()
+- [Gabarito Exercício - Regras de Inferência](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2004/Gabarito%20Exerc%C3%ADcio%20-%20Regras%20de%20Infer%C3%AAncia.pdf)
 
-- []()
-
-- []()
+- [Gabarito Exercício - Justificar as demonstrações]()
