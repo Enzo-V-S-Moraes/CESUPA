@@ -105,6 +105,10 @@
 
 - [Portas Lógicas - exercícios](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2003/Portas%20L%C3%B3gicas%20-%20exerc%C3%ADcios.pdf)
 
+## Gabarito - Lista de Exercícios 03
+
+- [Resolução circuito grande - 1ª questão](https://www.loom.com/share/eeae171869714f7c84daa94770b4ec2b)
+
 ## Simuladores para Portas Lógicas
 
 - [Logicly](https://logic.ly/)
@@ -117,4 +121,12 @@
 
 ## Simplificação de circuitos lógicos (Mapa de karnaugh)
 
-- [Simplificação de Circuitos Lógicos]()
+- [Simplificação de Circuitos Lógicos](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Simplifica%C3%A7%C3%A3o%20de%20Circuitos%20L%C3%B3gicos/Simplifica%C3%A7%C3%A3o%20de%20Circuitos%20L%C3%B3gicos.pdf)
+
+## Estudos dos Argumentos
+
+- [Argumentos]()
+
+## Lista de Exercícios 04
+
+- [Exercício - Regras de Inferência]()
