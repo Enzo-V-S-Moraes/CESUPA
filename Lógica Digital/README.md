@@ -13,28 +13,45 @@
 
 ## Lista de Exercícios 01
 
-[Exercício - Conectivos, classificação e relações](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Lista%20de%20Exercícios/Exercício%20-%20Conectivos%2C%20classificação%20e%20relações.pdf)
+[Exercício - Conectivos, classificação e relações](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exercícios/Lista%20de%20Exercícios/Exercício%20-%20Conectivos%2C%20classificação%20e%20relações.pdf)
 
-[Questões Valor lógico com expressões matemáticas](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Lista%20de%20Exercícios/Questões%20Valor%20lógico%20com%20expressões%20matemáticas.pdf)
+[Questões Valor lógico com expressões matemáticas](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Valor%20l%C3%B3gico%20com%20express%C3%B5es%20matem%C3%A1ticas.pdf)
 
-[Questões Garantia de preparo Tabela verdade composta](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Lista%20de%20Exercícios/Questões%20Garantia%20de%20preparo%20Tabela%20verdade%20composta.pdf)
+[Questões Garantia de preparo Tabela verdade composta](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Garantia%20de%20preparo%20Tabela%20verdade%20composta.pdf)
 
-[Questões FBF1]()
+[Questões FBF1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20FBF1.pdf)
 
-[Questões FBF2]()
+[Questões FBF2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20FBF2.pdf)
 
-[Questões Parênteses 1]()
+[Questões Parênteses 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Par%C3%AAnteses%201.pdf)
 
-[Questões Parênteses 2]()
+[Questões Parênteses 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Par%C3%AAnteses%202.pdf)
 
-[Questões Parênteses 3]()
+[Questões Parênteses 3](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Par%C3%AAnteses%203.pdf)
 
+[Questões Tradução simples proposição --- frase]()
+
+[Questões Tradução simples frase -- proposição]()
 
 ## Gabarito - Lista de Exercícios 01
 
-[Gabarito Valor lógico com expressões matemáticas](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Lista%20de%20Exercícios/Gabarito%20Valor%20lógico%20com%20expressões%20matemáticas_.pdf)
+[Gabarito Valor lógico com expressões matemáticas](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Valor%20l%C3%B3gico%20com%20express%C3%B5es%20matem%C3%A1ticas_.pdf)
 
-[Gabarito Garantia de preparo Tabela verdade composta](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Lista%20de%20Exercícios/Gabarito%20Garantia%20de%20preparo%20Tabela%20verdade%20composta.pdf)
+[Gabarito Garantia de preparo Tabela verdade composta](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Garantia%20de%20preparo%20Tabela%20verdade%20composta.pdff)
+
+[Gabarito FBF1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20FBF1.pdf)
+
+[Gabarito FBF2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20FBF2.pdf)
+
+[Gabarito Parênteses 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Par%C3%AAnteses%201.pdf)
+
+[Gabarito Parênteses 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Par%C3%AAnteses%202.pdf)
+
+[Gabarito Parênteses 3](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Par%C3%AAnteses%203.pdf)
+
+[Gabarito Tradução simples proposição --- frase]()
+
+[Gabarito Tradução simples frase -- proposição]()
 
 ## Estudos das Relações Lógicas
 
