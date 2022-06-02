@@ -71,6 +71,32 @@
 
 - [Questões Raciocínio](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2002/Quest%C3%B5es%20Racioc%C3%ADnio.pdf)
 
+- [Questões Negação 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2002/Quest%C3%B5es%20Nega%C3%A7%C3%A3o%201.pdf)
+
+- [Questões Negação 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2002/Quest%C3%B5es%20Nega%C3%A7%C3%A3o%202.pdf)
+
+- [Questões Equivalência 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2002/Quest%C3%B5es%20Equival%C3%AAncia%201.pdf)
+
+- [Questões Equivalência 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2002/Quest%C3%B5es%20Equival%C3%AAncia%202.pdf)
+
 ## Gabarito - Lista de Exercícios 02
 
 - [Gabarito Raciocínio](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2002/Gabarito%20Racioc%C3%ADnio.pdf)
+
+- [Gabarito Negação 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2002/Gabarito%20Nega%C3%A7%C3%A3o%201.pdf)
+
+- [Gabarito Negação 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2002/Gabarito%20Nega%C3%A7%C3%A3o%202.pdf)
+
+- [Gabarito Equivalência 1](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2002/Gabarito%20Equival%C3%AAncia%201.pdf)
+
+- [Gabarito Equivalência 2](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito%2002/Gabarito%20Equival%C3%AAncia%202.pdf)
+
+## Estudos das Portas Lógicas
+
+- [Elementos de Eletrônica Digital - CAPUANO]()
+
+- [Portas Lógicas]()
+
+- [Portas Lógicas - apostila]()
+
+- [Mecânica/Redstone/Circuito Lógico](https://minecraft.fandom.com/pt/wiki/Mec%C3%A2nica/Redstone/Circuito_l%C3%B3gico)
