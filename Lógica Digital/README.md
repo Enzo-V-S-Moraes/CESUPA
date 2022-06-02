@@ -93,10 +93,28 @@
 
 ## Estudos das Portas Lógicas
 
-- [Elementos de Eletrônica Digital - CAPUANO]()
+- [Elementos de Eletrônica Digital - CAPUANO](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Portas%20L%C3%B3gicas/Elementos%20de%20Eletr%C3%B4nica%20Digital%20-%20CAPUANO.pdf)
 
-- [Portas Lógicas]()
+- [Portas Lógicas](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Portas%20L%C3%B3gicas/Portas%20L%C3%B3gicas.pdf)
 
-- [Portas Lógicas - apostila]()
+- [Portas Lógicas - apostila](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Portas%20L%C3%B3gicas/Portas%20L%C3%B3gicas%20-%20apostila.pdf)
 
 - [Mecânica/Redstone/Circuito Lógico](https://minecraft.fandom.com/pt/wiki/Mec%C3%A2nica/Redstone/Circuito_l%C3%B3gico)
+
+## Lista de Exercícios 03
+
+- [Portas Lógicas - exercícios](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios%2003/Portas%20L%C3%B3gicas%20-%20exerc%C3%ADcios.pdf)
+
+## Simuladores para Portas Lógicas
+
+- [Logicly](https://logic.ly/)
+
+- [CircuitVerse](https://circuitverse.org/simulator/)
+
+- [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim)
+
+- [Digital Circuit Simulator](https://sklambert.com/digsim/DigSim.html#)
+
+## Simplificação de circuitos lógicos (Mapa de karnaugh)
+
+- [Simplificação de Circuitos Lógicos]()
