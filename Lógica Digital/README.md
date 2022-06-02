@@ -59,10 +59,18 @@
 
 ## Estudos de Álgebra das Proposições
 
-- [Álgebra das Proposições]()
+- [Álgebra das Proposições](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/%C3%81lgebra%20das%20Proposi%C3%A7%C3%B5es/%C3%81lgebra%20das%20Proposi%C3%A7%C3%B5es.pdf)
 
 ## Estudos de Método Dedutivo
 
 - [Método Dedutivo](https://view.genial.ly/6045941a7d3ecd0d2a7b6760/interactive-content-untitled-genially)
 
 - [Método Dedutivo - PDF](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/Lógica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Método%20Dedutivo/Método%20Dedutivo.pdf)
+
+## Lista de Exercícios 02
+
+- [Questões Raciocínio]()
+
+## Gabarito - Lista de Exercícios 02
+
+- [Gabarito Raciocínio]()
