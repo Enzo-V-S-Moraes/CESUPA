@@ -69,8 +69,8 @@
 
 ## Lista de Exercícios 02
 
-- [Questões Raciocínio]()
+- [Questões Raciocínio](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Lista%20de%20Exerc%C3%ADcios/Quest%C3%B5es%20Racioc%C3%ADnio.pdf)
 
 ## Gabarito - Lista de Exercícios 02
 
-- [Gabarito Raciocínio]()
+- [Gabarito Raciocínio](https://github.com/Enzo-V-S-Moraes/CESUPA/blob/master/L%C3%B3gica%20Digital/Materiais%2C%20Listas%20e%20Apostilas/Exerc%C3%ADcios/Gabarito/Gabarito%20Racioc%C3%ADnio.pdf)
